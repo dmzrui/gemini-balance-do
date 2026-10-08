@@ -1,0 +1,94 @@
+Geekbench 5.5.1 Tryout : https://www.geekbench.com/
+
+Geekbench 5 requires an active Internet connection when in tryout mode and 
+automatically uploads benchmark results to the Geekbench Browser.
+
+Buy a Geekbench 5 license from the Primate Labs Store to enable offline use 
+and unlock other features:
+
+  https://store.primatelabs.com/v5
+
+Enter your Geekbench 5 license using the following command line:
+
+  ./geekbench5 --unlock <email> <key>
+
+  Running Gathering system information
+System Information
+  Operating System              Debian GNU/Linux 12 (bookworm)
+  Kernel                        Linux 6.12.85+ x86_64
+  Model                         Google Google Compute Engine
+  Motherboard                   Google Google Compute Engine
+  BIOS                          Google Google
+
+Processor Information
+  Name                          AMD EPYC 9B14
+  Topology                      1 Processor, 4 Cores
+  Identifier                    AuthenticAMD Family 25 Model 17 Stepping 1
+  Base Frequency                2.60 GHz
+  L1 Instruction Cache          32.0 KB x 2
+  L1 Data Cache                 32.0 KB x 2
+  L2 Cache                      1.00 MB x 2
+  L3 Cache                      384 MB
+
+Memory Information
+  Size                          708 GB
+
+
+Single-Core
+  Running AES-XTS
+  Running Text Compression
+  Running Image Compression
+  Running Navigation
+  Running HTML5
+  Running SQLite
+  Running PDF Rendering
+  Running Text Rendering
+  Running Clang
+  Running Camera
+  Running N-Body Physics
+  Running Rigid Body Physics
+  Running Gaussian Blur
+  Running Face Detection
+  Running Horizon Detection
+  Running Image Inpainting
+  Running HDR
+  Running Ray Tracing
+  Running Structure from Motion
+  Running Speech Recognition
+  Running Machine Learning
+
+Multi-Core
+  Running AES-XTS
+  Running Text Compression
+  Running Image Compression
+  Running Navigation
+  Running HTML5
+  Running SQLite
+  Running PDF Rendering
+  Running Text Rendering
+  Running Clang
+  Running Camera
+  Running N-Body Physics
+  Running Rigid Body Physics
+  Running Gaussian Blur
+  Running Face Detection
+  Running Horizon Detection
+  Running Image Inpainting
+  Running HDR
+  Running Ray Tracing
+  Running Structure from Motion
+  Running Speech Recognition
+  Running Machine Learning
+
+
+Uploading results to the Geekbench Browser. This could take a minute or two 
+depending on the speed of your internet connection.
+
+Upload succeeded. Visit the following link and view your results online:
+
+  https://browser.geekbench.com/v5/cpu/24700108
+
+Visit the following link and add this result to your profile:
+
+  https://browser.geekbench.com/v5/cpu/24700108/claim?key=894133
+
