@@ -1,0 +1,102 @@
+Title: Google Google Compute Engine - Geekbench
+
+URL Source: https://browser.geekbench.com/v5/cpu/24700121
+
+Markdown Content:
+This result is from Geekbench 5, a [legacy version](https://www.geekbench.com/legacy/) of Geekbench, and can only be compared with other Geekbench 5 results. We recommend [Geekbench 7](https://www.geekbench.com/) for testing modern hardware.
+
+1492
+
+Single-Core Score
+
+5004
+
+Multi-Core Score
+
+Geekbench 5.5.1 Tryout for Linux x86 (64-bit)
+
+### Result Information
+
+Upload Date Thu, 08 Oct 2026 08:13:11 +0000
+Views 1
+
+### System Information
+
+| System Information |
+| --- |
+| Operating System | Debian GNU/Linux 12 (bookworm) |
+| Model | Google Google Compute Engine |
+| Motherboard | Google Google Compute Engine |
+
+| CPU Information |
+| --- |
+| Name | AMD EPYC 9B14 |
+| Topology | 1 Processor, 4 Cores |
+| Base Frequency | 2.60 GHz |
+| Cluster 1 | 0 Cores |
+| L1 Instruction Cache | 32.0 KB x 2 |
+| L1 Data Cache | 32.0 KB x 2 |
+| L2 Cache | 1.00 MB x 2 |
+| L3 Cache | 384 MB x 1 |
+
+| Memory Information |
+| --- |
+| Memory | 708.22 GB |
+
+### Single-Core Performance
+
+| Single-Core Score | 1492 |  |
+| --- | --- | --- |
+| Crypto Score | 4532 |  |
+| Integer Score | 1237 |  |
+| Floating Point Score | 1538 |  |
+| AES-XTS | 4532 7.73 GB/sec |  |
+| Text Compression | 1201 6.07 MB/sec |  |
+| Image Compression | 1309 61.9 Mpixels/sec |  |
+| Navigation | 1146 3.23 MTE/sec |  |
+| HTML5 | 1349 1.58 MElements/sec |  |
+| SQLite | 1215 380.5 Krows/sec |  |
+| PDF Rendering | 1221 66.3 Mpixels/sec |  |
+| Text Rendering | 1340 426.9 KB/sec |  |
+| Clang | 1333 10.4 Klines/sec |  |
+| Camera | 1054 12.2 images/sec |  |
+| N-Body Physics | 1387 1.74 Mpairs/sec |  |
+| Rigid Body Physics | 1270 7869.2 FPS |  |
+| Gaussian Blur | 1519 83.5 Mpixels/sec |  |
+| Face Detection | 1479 11.4 images/sec |  |
+| Horizon Detection | 1226 30.2 Mpixels/sec |  |
+| Image Inpainting | 2580 126.6 Mpixels/sec |  |
+| HDR | 2738 37.3 Mpixels/sec |  |
+| Ray Tracing | 1710 1.37 Mpixels/sec |  |
+| Structure from Motion | 1168 10.5 Kpixels/sec |  |
+| Speech Recognition | 1242 39.7 Words/sec |  |
+| Machine Learning | 1337 51.7 images/sec |  |
+
+### Multi-Core Performance
+
+| Multi-Core Score | 5004 |  |
+| --- | --- | --- |
+| Crypto Score | 11116 |  |
+| Integer Score | 4331 |  |
+| Floating Point Score | 5444 |  |
+| AES-XTS | 11116 18.9 GB/sec |  |
+| Text Compression | 4225 21.4 MB/sec |  |
+| Image Compression | 5219 246.9 Mpixels/sec |  |
+| Navigation | 3371 9.51 MTE/sec |  |
+| HTML5 | 4962 5.83 MElements/sec |  |
+| SQLite | 3825 1.20 Mrows/sec |  |
+| PDF Rendering | 4598 249.6 Mpixels/sec |  |
+| Text Rendering | 4377 1.36 MB/sec |  |
+| Clang | 5273 41.1 Klines/sec |  |
+| Camera | 3583 41.5 images/sec |  |
+| N-Body Physics | 5017 6.28 Mpairs/sec |  |
+| Rigid Body Physics | 4881 30242.1 FPS |  |
+| Gaussian Blur | 4564 250.9 Mpixels/sec |  |
+| Face Detection | 5485 42.2 images/sec |  |
+| Horizon Detection | 4648 114.6 Mpixels/sec |  |
+| Image Inpainting | 8259 405.2 Mpixels/sec |  |
+| HDR | 10535 143.5 Mpixels/sec |  |
+| Ray Tracing | 7110 5.71 Mpixels/sec |  |
+| Structure from Motion | 4568 40.9 Kpixels/sec |  |
+| Speech Recognition | 4333 138.5 Words/sec |  |
+| Machine Learning | 3570 138.0 images/sec |  |
